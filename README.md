@@ -1,8 +1,15 @@
 # Network-Scanner
-Builted a compact python-based network scanner for discovering live hosts and open ports on the local network.
+Builted a compact python-based network scanner for discovering live hosts and open ports on the local network, not for illegal purposes but for education.
+
+## Process 
+- imported the important libraries needed run commands like ping and  TCP connection. 
+- created functions for ping which allows the host device to check if the device with the certain IP address is active on the network or not.
+- generated a range for the IP addresses in the network to exist.
+- created function for the TCP port scanner which allows you to check which ports are available or used.
+- allowed it generate results and save it.
 
 ## Features ✨
-- my project is able to do a ping sweep to discover live hosts
+- able to do a ping sweep to discover live hosts
 - do a TCP Port scan for common ports
 
 ## Problems ❔❔
@@ -11,14 +18,16 @@ Builted a compact python-based network scanner for discovering live hosts and op
 - manual scanning takes time.
 - network blockage and mismanagement - able to optimize the network efficiently.
 
-## Solutions 🤔
+## How does this help the community / people 🤔
 - detects the all devices on the network.
-- montioring almost immediately /real-time.
-- helps users be aware of what weaknesses /threats  the network is facing.
-- able to having scnning done on the ports too.
+- montioring almost immediately / real-time.
+- helps users be aware of what weaknesses / threats  the network is facing.
+- able to having scanning done on the ports too.
   
-## Why I Built this
-built this tool to understand how they test authorisation on networks and not to do anyhting illegal with it as well as understand how connectivity on networks can be evalutated using ping sweep and checking that ports are available using TCP ports scanning.
-
-## Tech Stack 
+## Why I learnt
+- explore and expand my knowledge on building scanners for networks.
+- expand my coding skills using python.
+- ping sweep and how check port availability using TCP port scanning.
+  
+## Tech Stack 💻
 - python 
