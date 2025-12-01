@@ -7,6 +7,7 @@ Builted a compact python-based network scanner for discovering live hosts and op
 - generated a range for the IP addresses in the network to exist.
 - created function for the TCP port scanner which allows you to check which ports are available or used.
 - allowed it generate results and save it.
+- [View results](https://github.com/Nianca-Chetty103/Network-Scanner-/blob/main/network_scan_results.csv)
 
 ## Features ✨
 - able to do a ping sweep to discover live hosts
