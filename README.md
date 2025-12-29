@@ -1,4 +1,4 @@
-# Network-Scanner
+# Network-Scanner 🗼
 Builted a compact python-based network scanner for discovering live hosts and open ports on the local network, not for illegal purposes but for education.
 
 ## Process 
