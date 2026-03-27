@@ -1,7 +1,7 @@
 # Network-Scanner 🗼
 Builted a compact python-based network scanner for discovering live hosts and open ports on the local network, not for illegal purposes but for education.
 
-## Process 
+## Process ⛓️
 - imported the important libraries needed run commands like ping and  TCP connection. 
 - created functions for ping which allows the host device to check if the device with the certain IP address is active on the network or not.
 - generated a range for the IP addresses in the network to exist.
